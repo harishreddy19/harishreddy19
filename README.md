@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harishreddy19
 - 👀 I’m interested in  learning  new things
-- 🌱 I’m currently learning ...java
+- 🌱 I’m currently learning ...front end
 - 📫 How to reach me harishsatti19@gmai.com
 - ⚡role : I am currently pursuing my graduation
 
